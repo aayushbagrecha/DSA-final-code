@@ -1,0 +1,4 @@
+insert 1
+search 1
+delete 1
+print table
